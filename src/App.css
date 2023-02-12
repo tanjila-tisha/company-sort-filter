@@ -24,15 +24,11 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.company-container{
+  margin: 25px auto;
+  padding: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-link {
+  color: #61dafb;
 }
